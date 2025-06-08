@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Meu nome é Maria Eduarda Souza de Oliveira, sou estudante de Ciência da Computação na Cesar School. Apaixonada por tecnologia e amante da leitura, busco constantemente aprender com       meus erros e compartilhar o conhecimento que adquiro ao longo da minha jornada.
+Meu nome é **Maria Eduarda Souza de Oliveira**, sou estudante de **Ciência da Computação na Cesar School**. Apaixonada por **tecnologia** e amante da **leitura**, busco constantemente **aprender com meus erros** e **compartilhar o conhecimento** que adquiro ao longo da minha jornada.
+
 </p>
 
 <p align="left">
