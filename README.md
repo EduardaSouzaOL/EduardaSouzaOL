@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
-  Meu nome é Maria Eduarda Souza de Oliveira,<strong>Desenvolvedora em construção</strong>.<br>
-  Eu sou estudante de ciência da computação na Cesar School.
-</p>
+Sejam Bem-vindos ao meu perfil no Github!
+Me chamo **Maria Eduarda Souza**, sou estudante de *Ciência da Computação* na *Cesar School*.
 
 <p align="left">
   🦄 Linguagens:
@@ -21,11 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
 </div>
 </p>
-
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
-
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
   </p>
