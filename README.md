@@ -1,9 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-Sejam Bem-vindos ao meu perfil no Github!
-Me chamo **Maria Eduarda Souza**, sou estudante de *Ciência da Computação* na *Cesar School*.
+
+<h1>Sejam Bem-vindos ao meu perfil no Github!</h1>
+
+<h2>Me chamo Maria Eduarda Souza, sou estudante de <strong>Ciência da Computação na Cesar School</strong>.</h2>
 
 <p align="left">
-  🦄 Linguagens:
+  <h2>🦄 Linguagens:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -19,7 +21,7 @@ Me chamo **Maria Eduarda Souza**, sou estudante de *Ciência da Computação* na
 </div>
 </p>
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  <h2>💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️</h2>
   </p>
   <div align="left">
   <a href="https://www.linkedin.com/in/dudasouzaol/" target="_blank">
