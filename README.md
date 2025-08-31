@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Meu nome é Maria Eduarda Souza de Oliveira, sou desenvolvedora <strong></strong>.<br>
+  Meu nome é Maria Eduarda Souza de Oliveira,<strong>Desenvolvedora em construção</strong>.<br>
   Eu sou estudante de ciência da computação na Cesar School.
 </p>
 
@@ -33,4 +33,3 @@
   <a href="https://www.linkedin.com/in/dudasouzaol/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  
