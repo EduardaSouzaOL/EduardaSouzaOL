@@ -21,7 +21,7 @@
 </div>
 </p>
 <p align="left">
-  <h2>💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️</h2>
+  <h2>💌 Entre em contato <3>: ⤵️</h2>
   </p>
   <div align="left">
   <a href="https://www.linkedin.com/in/dudasouzaol/" target="_blank">
